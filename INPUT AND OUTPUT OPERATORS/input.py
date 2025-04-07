@@ -33,4 +33,6 @@ print(type(age))
 
 # print(name.find("a"))
 
+# print(name.replace("a", "b")) 
+
 
