@@ -22,6 +22,7 @@ print(name1.split())  # Split words separately
 print(name1.capitalize())  # Capitalize the first letter
 print(len(name1))  # Count letters
 print(name1.upper())  # Make all letters into uppercase
+print(name.replace("onsongo", "suchi"))
 
 # Slicing string
 print(name[1:4])  # Retrieves characters from index 1 to 3
@@ -32,4 +33,4 @@ print(name[::-1])  # Reverse a string
 # Delete a string
 name2 = "amosonsongoomariba"
 
-del name2 # Delete the string
+del name2  # Delete the string
